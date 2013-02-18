@@ -15,9 +15,7 @@ public class ControlVersiones {
      */
     public static void main(String[] args) {
         
-        //AÑADO ESTO DESDE GITHUB
-        System.out.println("Esto lo he añadido desde github");
         
-        //añado esto
+        
     }
 }
